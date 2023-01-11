@@ -3,7 +3,7 @@
 This is a Simpl Portolio.The portfolio is easy  just use "/admin"  to login into Django admin panel to change you personal info.
 
 <h3> 
-<div> <img src="https://drive.google.com/uc?export=view&id=1xm9r-N5L19m0ou6dvrddttzyDyZF5MJ3" alt="">   
+<div> <img src="https://drive.google.com/uc?export=view&id=1xm9r-N5L19m0ou6dvrddttzyDyZF5MJ3" alt="">   </div>
 
 
 
